@@ -1,0 +1,13 @@
+.red {color: brown;}
+ul {list-style: image();
+}
+#qwe {background-color: aqua;}
+#asd {background-color: bisque;}
+#zxc {background-color: aquamarine;}
+#qaz {background-color: rgb(245, 222, 45);
+     padding: 0px 20px 20px 5px;
+    }
+.bop {background-color: cadetblue;
+padding: 6px 20px 6px 20px;
+width: 700px;
+}
